@@ -840,7 +840,7 @@ export const MainPage = () => {
                   <br />
                   Kartheek B
                 </Heading>
-                <Text>Frontend Developers</Text>
+                <Text>UI/UX Designers</Text>
               </Box>
             </GridItem>
 

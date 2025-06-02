@@ -930,7 +930,7 @@ export const MainPage = () => {
         <Flex justify="center" mb={4}>
           <IconButton
             as={Link}
-            href="https://www.linkedin.com/in/vinayak-kallakuri-6326932b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.linkedin.com/in/kartheek-billa-3535862a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             icon={<FaLinkedin />}
             isRound
             size="lg"
@@ -940,7 +940,7 @@ export const MainPage = () => {
           />
           <IconButton
             as={Link}
-            href="https://github.com/Siddhu863"
+            href="https://github.com/kartheekbilla"
             icon={<FaGithub />}
             isRound
             size="lg"
@@ -950,7 +950,7 @@ export const MainPage = () => {
           />
           <IconButton
             as={Link}
-            href="mailto:siddhukallakuri3112005@gmail.com"
+            href="mailto:kartheekbilla147@gmail.com"
             icon={<FaEnvelope />}
             isRound
             size="lg"
@@ -960,7 +960,7 @@ export const MainPage = () => {
           />
           <IconButton
             as={Link}
-            href="https://www.instagram.com/yourprofile"
+            href="https://www.instagram.com/kartheek._.billa"
             icon={<FaInstagram />}
             isRound
             size="lg"
@@ -970,7 +970,7 @@ export const MainPage = () => {
           />
           <IconButton
             as={Link}
-            href="https://wa.me/yourphonenumber"
+            href="https://wa.me/9182844959"
             icon={<FaWhatsapp />}
             isRound
             size="lg"

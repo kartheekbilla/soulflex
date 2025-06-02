@@ -63,10 +63,7 @@ function App() {
         <Route path="/querywomen" element={<QueryPages />} />
         <Route path="/mind" element={<MindfulnessPage />} />
         <Route path="/suryanamaskaram" element={<Surya />} />
-
         <Route path='/workshop' element={<WorkshopPage />} />
-        
-
       </Routes>
     </BrowserRouter>
   );
